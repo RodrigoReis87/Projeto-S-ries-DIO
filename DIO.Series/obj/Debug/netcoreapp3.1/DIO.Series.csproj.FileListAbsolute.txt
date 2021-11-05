@@ -1,0 +1,14 @@
+C:\Users\rodri\Source\Repos\DIO.Series\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.csproj.AssemblyReference.cache
+C:\Users\rodri\Source\Repos\DIO.Series\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\Source\Repos\DIO.Series\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfoInputs.cache
+C:\Users\rodri\Source\Repos\DIO.Series\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfo.cs
+C:\Users\rodri\Source\Repos\DIO.Series\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Source\Repos\DIO.Series\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.exe
+C:\Users\rodri\Source\Repos\DIO.Series\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.deps.json
+C:\Users\rodri\Source\Repos\DIO.Series\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.runtimeconfig.json
+C:\Users\rodri\Source\Repos\DIO.Series\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.runtimeconfig.dev.json
+C:\Users\rodri\Source\Repos\DIO.Series\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.dll
+C:\Users\rodri\Source\Repos\DIO.Series\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.pdb
+C:\Users\rodri\Source\Repos\DIO.Series\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.dll
+C:\Users\rodri\Source\Repos\DIO.Series\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.pdb
+C:\Users\rodri\Source\Repos\DIO.Series\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.genruntimeconfig.cache
