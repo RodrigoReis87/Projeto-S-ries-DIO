@@ -12,7 +12,7 @@ namespace DIO.Series
             listaSeries[Id] = objeto;
         }
 
-        public void Exclui(int Id)
+        public void Excluir(int Id)
         {
             listaSeries[Id].Excluir();
         }

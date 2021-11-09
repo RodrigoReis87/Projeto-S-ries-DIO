@@ -7,7 +7,7 @@ namespace DIO.Series.Interfaces
          List<T> Lista();
          T RetornaPorId(int Id);
          void Insere(T entidade);
-         void Exclui(int Id);
+         void Excluir(int Id);
          void Atualiza(int Id, T entidade);
          int ProximoId();
     }
